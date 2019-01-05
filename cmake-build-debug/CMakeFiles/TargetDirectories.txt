@@ -1,0 +1,3 @@
+C:/Users/btroo/CLionProjects/project4csc173number2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/btroo/CLionProjects/project4csc173number2/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/btroo/CLionProjects/project4csc173number2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/btroo/CLionProjects/project4csc173number2/RealSQL.h
+stdio.h
+-
+malloc.h
+-
+string.h
+-
+stdbool.h
+-
+stdlib.h
+-
+
+C:/Users/btroo/CLionProjects/project4csc173number2/database.h
+stdio.h
+-
+malloc.h
+-
+string.h
+-
+RealSQL.h
+C:/Users/btroo/CLionProjects/project4csc173number2/RealSQL.h
+
+C:/Users/btroo/CLionProjects/project4csc173number2/main.c
+stdio.h
+-
+database.h
+C:/Users/btroo/CLionProjects/project4csc173number2/database.h
+
